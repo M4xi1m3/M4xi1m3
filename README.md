@@ -30,6 +30,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Micmost: how a .git folder can get your consumers’ data leaked.](https://m4xi1m3.github.io//Micmost-git-leak/)
+- [Numworks modding - Part 2 : N0100++](https://m4xi1m3.github.io//Numworks-mod-p2/)
+- [Creating a 3D Numworks simulator](https://m4xi1m3.github.io//Numworks-3D-Simulator/)
+- [Numworks modding - Part 1 : openning the beasts.](https://m4xi1m3.github.io//Numworks-mod-p1/)
+- [Welcome to my blog!](https://m4xi1m3.github.io//Welcome-to-my-blog/)
 <!-- BLOG-POST-LIST:END -->
 
 [more blog posts...][website]
