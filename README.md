@@ -2,10 +2,8 @@
 
 <img alt="M4xi1m3's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=M4xi1m3&hide_border=true&count_private=true&show_icons=true&theme=dark" />
 
-[<img align="left" alt="m4xi1m3.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="M4xi1m3's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<br />
+[![Website](https://img.shields.io/website?label=Blog&style=for-the-badge&url=https%3A%2F%2Fm4xi1m3.github.io%2F)][website]
+[![Twitter Follow](https://img.shields.io/twitter/follow/M4xi1m3?color=blue&style=for-the-badge)][twitter]
 
 #### Languages and Tools:
 
@@ -21,11 +19,6 @@
 <img align="left" alt="Archlinux" width="26px" src="https://raw.githubusercontent.com/github/explore/5b158a2b0003dc81f29b5632320c7992a67a5f39/topics/archlinux/archlinux.png" />
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/5b158a2b0003dc81f29b5632320c7992a67a5f39/topics/bash/bash.png" />
 <img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/5b158a2b0003dc81f29b5632320c7992a67a5f39/topics/vim/vim.png" />
-
-<br />
-<br />
-
----
 
 #### Latest Blog Posts
 
