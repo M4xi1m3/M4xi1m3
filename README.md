@@ -1,27 +1,19 @@
 ### Hello, I'm Maxime.
 
-<img alt="M4xi1m3's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=M4xi1m3&hide_border=true&count_private=true&show_icons=true&theme=dark" />
-
-[![Website](https://img.shields.io/website?label=Blog&style=for-the-badge&url=https%3A%2F%2Fm4xi1m3.github.io%2F)][website]
-[![Twitter Follow](https://img.shields.io/twitter/follow/M4xi1m3?color=blue&style=for-the-badge)][twitter]
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4xi1m3&hide_border=true&count_private=true&show_icons=true&theme=dark)
 
 #### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/5b158a2b0003dc81f29b5632320c7992a67a5f39/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/5b158a2b0003dc81f29b5632320c7992a67a5f39/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/5b158a2b0003dc81f29b5632320c7992a67a5f39/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/5b158a2b0003dc81f29b5632320c7992a67a5f39/topics/sql/sql.png" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/cpp/cpp.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/5b158a2b0003dc81f29b5632320c7992a67a5f39/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="Archlinux" width="26px" src="https://raw.githubusercontent.com/github/explore/5b158a2b0003dc81f29b5632320c7992a67a5f39/topics/archlinux/archlinux.png" />
-<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/5b158a2b0003dc81f29b5632320c7992a67a5f39/topics/bash/bash.png" />
-<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/5b158a2b0003dc81f29b5632320c7992a67a5f39/topics/vim/vim.png" />
+![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=blue)
+![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=red)
+![Python3](https://img.shields.io/badge/-Py3-000000?style=for-the-badge&logo=Python&logoColor=cyan)
+![JS](https://img.shields.io/badge/-JS-000000?style=for-the-badge&logo=JavaScript&logoColor=yellow)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=red)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=Linux&logoColor=white)
 
 <br/>
-<br/>
+
+![My main languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M4xi1m3&hide_border=true&hide=stars&theme=dark&show_icons=true&layout=compact)
 
 <details>
   <summary>Recent Activity</summary>
@@ -50,6 +42,11 @@
 
 </details>
 
+#### Contact me
+
+[![Blog](https://img.shields.io/badge/-Blog-000000?style=for-the-badge&logo=rss&logoColor=red)][website]
+[![twitter : @M4xi1m3](https://img.shields.io/badge/-%40M4xi1m3-000000?style=for-the-badge&logo=twitter&logoColor=cyan)][twitter]
+[![email : M4x1me@pm.me](https://img.shields.io/badge/-m4x1me%40pm%2Eme-000000?style=for-the-badge&logo=protonmail&logoColor=blueviolet)](mailto:M4x1me@pm.me)
+
 [website]: https://m4xi1m3.github.io/
 [twitter]: https://twitter.com/M4xi1m3
-
