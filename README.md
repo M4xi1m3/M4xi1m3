@@ -1,4 +1,3 @@
-### Hello, I'm Maxime.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4xi1m3&hide_border=true&count_private=true&show_icons=true&theme=dark)
 
 #### Languages and Tools:
