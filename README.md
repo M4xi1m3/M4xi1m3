@@ -20,6 +20,8 @@
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/5b158a2b0003dc81f29b5632320c7992a67a5f39/topics/bash/bash.png" />
 <img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/5b158a2b0003dc81f29b5632320c7992a67a5f39/topics/vim/vim.png" />
 
+<br/>
+
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
