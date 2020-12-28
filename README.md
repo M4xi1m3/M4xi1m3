@@ -25,11 +25,11 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#434](https://github.com/Omega-Numworks/Omega/pull/434) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-2. ❗️ Closed issue [#431](https://github.com/Omega-Numworks/Omega/issues/431) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-3. 🗣 Commented on [#431](https://github.com/Omega-Numworks/Omega/issues/431) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-4. 🗣 Commented on [#6](https://github.com/Omega-Numworks/Omega-IDE/issues/6) in [Omega-Numworks/Omega-IDE](https://github.com/Omega-Numworks/Omega-IDE)
-5. 🗣 Commented on [#422](https://github.com/Omega-Numworks/Omega/issues/422) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+1. ❗️ Opened issue [#1](https://github.com/MrGaming15/OmegaLedManagerApp/issues/1) in [MrGaming15/OmegaLedManagerApp](https://github.com/MrGaming15/OmegaLedManagerApp)
+2. 💪 Opened PR [#434](https://github.com/Omega-Numworks/Omega/pull/434) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+3. ❗️ Closed issue [#431](https://github.com/Omega-Numworks/Omega/issues/431) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+4. 🗣 Commented on [#431](https://github.com/Omega-Numworks/Omega/issues/431) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+5. 🗣 Commented on [#6](https://github.com/Omega-Numworks/Omega-IDE/issues/6) in [Omega-Numworks/Omega-IDE](https://github.com/Omega-Numworks/Omega-IDE)
 <!--END_SECTION:activity-->
 
 </details>
