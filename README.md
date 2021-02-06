@@ -25,11 +25,11 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#461](https://github.com/Omega-Numworks/Omega/pull/461) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-2. 🎉 Merged PR [#9](https://github.com/Omega-Numworks/Omega-External/pull/9) in [Omega-Numworks/Omega-External](https://github.com/Omega-Numworks/Omega-External)
-3. ❗️ Opened issue [#1](https://github.com/MrGaming15/OmegaLedManagerApp/issues/1) in [MrGaming15/OmegaLedManagerApp](https://github.com/MrGaming15/OmegaLedManagerApp)
-4. 💪 Opened PR [#434](https://github.com/Omega-Numworks/Omega/pull/434) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-5. ❗️ Closed issue [#431](https://github.com/Omega-Numworks/Omega/issues/431) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+1. 🎉 Merged PR [#460](https://github.com/Omega-Numworks/Omega/pull/460) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+2. 🎉 Merged PR [#452](https://github.com/Omega-Numworks/Omega/pull/452) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+3. 🗣 Commented on [#452](https://github.com/Omega-Numworks/Omega/issues/452) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+4. 🎉 Merged PR [#461](https://github.com/Omega-Numworks/Omega/pull/461) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+5. 🗣 Commented on [#461](https://github.com/Omega-Numworks/Omega/issues/461) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
 <!--END_SECTION:activity-->
 
 </details>
