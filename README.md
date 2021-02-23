@@ -25,11 +25,11 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/RedGl0w/atomic/pull/1) in [RedGl0w/atomic](https://github.com/RedGl0w/atomic)
-2. 🎉 Merged PR [#4](https://github.com/M4xi1m3/nw-atom/pull/4) in [M4xi1m3/nw-atom](https://github.com/M4xi1m3/nw-atom)
-3. 🎉 Merged PR [#5](https://github.com/M4xi1m3/nw-atom/pull/5) in [M4xi1m3/nw-atom](https://github.com/M4xi1m3/nw-atom)
-4. 💪 Opened PR [#481](https://github.com/Omega-Numworks/Omega/pull/481) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-5. 🎉 Merged PR [#470](https://github.com/Omega-Numworks/Omega/pull/470) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+1. ❗️ Closed issue [#2](https://github.com/RedGl0w/atomic/issues/2) in [RedGl0w/atomic](https://github.com/RedGl0w/atomic)
+2. 💪 Opened PR [#1](https://github.com/RedGl0w/atomic/pull/1) in [RedGl0w/atomic](https://github.com/RedGl0w/atomic)
+3. 🎉 Merged PR [#4](https://github.com/M4xi1m3/nw-atom/pull/4) in [M4xi1m3/nw-atom](https://github.com/M4xi1m3/nw-atom)
+4. 🎉 Merged PR [#5](https://github.com/M4xi1m3/nw-atom/pull/5) in [M4xi1m3/nw-atom](https://github.com/M4xi1m3/nw-atom)
+5. 💪 Opened PR [#481](https://github.com/Omega-Numworks/Omega/pull/481) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
 <!--END_SECTION:activity-->
 
 </details>
