@@ -25,11 +25,11 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/RedGl0w/atomic/issues/2) in [RedGl0w/atomic](https://github.com/RedGl0w/atomic)
-2. 💪 Opened PR [#1](https://github.com/RedGl0w/atomic/pull/1) in [RedGl0w/atomic](https://github.com/RedGl0w/atomic)
-3. 🎉 Merged PR [#4](https://github.com/M4xi1m3/nw-atom/pull/4) in [M4xi1m3/nw-atom](https://github.com/M4xi1m3/nw-atom)
-4. 🎉 Merged PR [#5](https://github.com/M4xi1m3/nw-atom/pull/5) in [M4xi1m3/nw-atom](https://github.com/M4xi1m3/nw-atom)
-5. 💪 Opened PR [#481](https://github.com/Omega-Numworks/Omega/pull/481) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+1. ❗️ Closed issue [#456](https://github.com/Omega-Numworks/Omega/issues/456) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+2. 🎉 Merged PR [#487](https://github.com/Omega-Numworks/Omega/pull/487) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+3. ❗️ Opened issue [#488](https://github.com/Omega-Numworks/Omega/issues/488) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+4. 💪 Opened PR [#487](https://github.com/Omega-Numworks/Omega/pull/487) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+5. ❌ Closed PR [#481](https://github.com/Omega-Numworks/Omega/pull/481) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
 <!--END_SECTION:activity-->
 
 </details>
