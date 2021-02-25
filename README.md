@@ -25,11 +25,11 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#456](https://github.com/Omega-Numworks/Omega/issues/456) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-2. 🎉 Merged PR [#487](https://github.com/Omega-Numworks/Omega/pull/487) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-3. ❗️ Opened issue [#488](https://github.com/Omega-Numworks/Omega/issues/488) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-4. 💪 Opened PR [#487](https://github.com/Omega-Numworks/Omega/pull/487) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-5. ❌ Closed PR [#481](https://github.com/Omega-Numworks/Omega/pull/481) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+1. 🗣 Commented on [#489](https://github.com/Omega-Numworks/Omega/issues/489) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+2. ❗️ Opened issue [#489](https://github.com/Omega-Numworks/Omega/issues/489) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+3. ❗️ Closed issue [#456](https://github.com/Omega-Numworks/Omega/issues/456) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+4. 🎉 Merged PR [#487](https://github.com/Omega-Numworks/Omega/pull/487) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+5. ❗️ Opened issue [#488](https://github.com/Omega-Numworks/Omega/issues/488) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
 <!--END_SECTION:activity-->
 
 </details>
