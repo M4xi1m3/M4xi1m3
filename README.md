@@ -25,11 +25,11 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#494](https://github.com/Omega-Numworks/Omega/pull/494) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-2. 🎉 Merged PR [#474](https://github.com/Omega-Numworks/Omega/pull/474) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-3. ❌ Reopened PR [#474](https://github.com/Omega-Numworks/Omega/pull/474) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-4. ❗️ Closed issue [#492](https://github.com/Omega-Numworks/Omega/issues/492) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-5. 🎉 Merged PR [#493](https://github.com/Omega-Numworks/Omega/pull/493) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+1. 🗣 Commented on [#2](https://github.com/CacahueteSansSel/leterminal/issues/2) in [CacahueteSansSel/leterminal](https://github.com/CacahueteSansSel/leterminal)
+2. 🗣 Commented on [#3](https://github.com/CacahueteSansSel/leterminal/issues/3) in [CacahueteSansSel/leterminal](https://github.com/CacahueteSansSel/leterminal)
+3. 💪 Opened PR [#494](https://github.com/Omega-Numworks/Omega/pull/494) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+4. 🎉 Merged PR [#474](https://github.com/Omega-Numworks/Omega/pull/474) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+5. ❌ Reopened PR [#474](https://github.com/Omega-Numworks/Omega/pull/474) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
 <!--END_SECTION:activity-->
 
 </details>
