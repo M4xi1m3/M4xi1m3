@@ -25,11 +25,11 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Syycorax/Redgl0w-list/pull/1) in [Syycorax/Redgl0w-list](https://github.com/Syycorax/Redgl0w-list)
-2. 🎉 Merged PR [#498](https://github.com/Omega-Numworks/Omega/pull/498) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-3. 🎉 Merged PR [#495](https://github.com/Omega-Numworks/Omega/pull/495) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-4. 💪 Opened PR [#495](https://github.com/Omega-Numworks/Omega/pull/495) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-5. 💪 Opened PR [#3](https://github.com/RedGl0w/atomic/pull/3) in [RedGl0w/atomic](https://github.com/RedGl0w/atomic)
+1. 💪 Opened PR [#499](https://github.com/Omega-Numworks/Omega/pull/499) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+2. 💪 Opened PR [#1](https://github.com/Syycorax/Redgl0w-list/pull/1) in [Syycorax/Redgl0w-list](https://github.com/Syycorax/Redgl0w-list)
+3. 🎉 Merged PR [#498](https://github.com/Omega-Numworks/Omega/pull/498) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+4. 🎉 Merged PR [#495](https://github.com/Omega-Numworks/Omega/pull/495) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+5. 💪 Opened PR [#495](https://github.com/Omega-Numworks/Omega/pull/495) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
 <!--END_SECTION:activity-->
 
 </details>
