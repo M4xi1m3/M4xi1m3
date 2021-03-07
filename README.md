@@ -25,11 +25,11 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#501](https://github.com/Omega-Numworks/Omega/pull/501) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-2. ❗️ Closed issue [#151](https://github.com/Omega-Numworks/Omega/issues/151) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-3. 🎉 Merged PR [#499](https://github.com/Omega-Numworks/Omega/pull/499) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-4. 💪 Opened PR [#499](https://github.com/Omega-Numworks/Omega/pull/499) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-5. 💪 Opened PR [#1](https://github.com/Syycorax/Redgl0w-list/pull/1) in [Syycorax/Redgl0w-list](https://github.com/Syycorax/Redgl0w-list)
+1. 🗣 Commented on [#11](https://github.com/Omega-Numworks/Omega-External/issues/11) in [Omega-Numworks/Omega-External](https://github.com/Omega-Numworks/Omega-External)
+2. 💪 Opened PR [#501](https://github.com/Omega-Numworks/Omega/pull/501) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+3. ❗️ Closed issue [#151](https://github.com/Omega-Numworks/Omega/issues/151) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+4. 🎉 Merged PR [#499](https://github.com/Omega-Numworks/Omega/pull/499) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+5. 💪 Opened PR [#499](https://github.com/Omega-Numworks/Omega/pull/499) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
 <!--END_SECTION:activity-->
 
 </details>
