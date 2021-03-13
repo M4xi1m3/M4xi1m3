@@ -25,11 +25,11 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/M4xi1m3/Omega-ThMkr/pull/1) in [M4xi1m3/Omega-ThMkr](https://github.com/M4xi1m3/Omega-ThMkr)
-2. 🗣 Commented on [#15](https://github.com/Omega-Numworks/Omega-Robot/issues/15) in [Omega-Numworks/Omega-Robot](https://github.com/Omega-Numworks/Omega-Robot)
-3. ❗️ Opened issue [#1798](https://github.com/numworks/epsilon/issues/1798) in [numworks/epsilon](https://github.com/numworks/epsilon)
-4. 🗣 Commented on [#11](https://github.com/Omega-Numworks/Omega-External/issues/11) in [Omega-Numworks/Omega-External](https://github.com/Omega-Numworks/Omega-External)
-5. 💪 Opened PR [#501](https://github.com/Omega-Numworks/Omega/pull/501) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+1. 🎉 Merged PR [#504](https://github.com/Omega-Numworks/Omega/pull/504) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+2. 🎉 Merged PR [#1](https://github.com/M4xi1m3/Omega-ThMkr/pull/1) in [M4xi1m3/Omega-ThMkr](https://github.com/M4xi1m3/Omega-ThMkr)
+3. 🗣 Commented on [#15](https://github.com/Omega-Numworks/Omega-Robot/issues/15) in [Omega-Numworks/Omega-Robot](https://github.com/Omega-Numworks/Omega-Robot)
+4. ❗️ Opened issue [#1798](https://github.com/numworks/epsilon/issues/1798) in [numworks/epsilon](https://github.com/numworks/epsilon)
+5. 🗣 Commented on [#11](https://github.com/Omega-Numworks/Omega-External/issues/11) in [Omega-Numworks/Omega-External](https://github.com/Omega-Numworks/Omega-External)
 <!--END_SECTION:activity-->
 
 </details>
