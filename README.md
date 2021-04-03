@@ -25,11 +25,11 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1819](https://github.com/numworks/epsilon/issues/1819) in [numworks/epsilon](https://github.com/numworks/epsilon)
-2. 🗣 Commented on [#525](https://github.com/Omega-Numworks/Omega/issues/525) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-3. 🗣 Commented on [#523](https://github.com/Omega-Numworks/Omega/issues/523) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-4. 🎉 Merged PR [#513](https://github.com/Omega-Numworks/Omega/pull/513) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-5. 🎉 Merged PR [#511](https://github.com/Omega-Numworks/Omega/pull/511) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+1. 🗣 Commented on [#1](https://github.com/M4xi1m3/gedit-discord-rpc/issues/1) in [M4xi1m3/gedit-discord-rpc](https://github.com/M4xi1m3/gedit-discord-rpc)
+2. 🗣 Commented on [#1819](https://github.com/numworks/epsilon/issues/1819) in [numworks/epsilon](https://github.com/numworks/epsilon)
+3. 🗣 Commented on [#525](https://github.com/Omega-Numworks/Omega/issues/525) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+4. 🗣 Commented on [#523](https://github.com/Omega-Numworks/Omega/issues/523) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+5. 🎉 Merged PR [#513](https://github.com/Omega-Numworks/Omega/pull/513) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
 <!--END_SECTION:activity-->
 
 </details>
