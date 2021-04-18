@@ -25,11 +25,11 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12388](https://github.com/ppy/osu/issues/12388) in [ppy/osu](https://github.com/ppy/osu)
-2. 🎉 Merged PR [#1](https://github.com/M4xi1m3/gedit-discord-rpc/pull/1) in [M4xi1m3/gedit-discord-rpc](https://github.com/M4xi1m3/gedit-discord-rpc)
-3. 🗣 Commented on [#1](https://github.com/M4xi1m3/gedit-discord-rpc/issues/1) in [M4xi1m3/gedit-discord-rpc](https://github.com/M4xi1m3/gedit-discord-rpc)
-4. 🗣 Commented on [#1819](https://github.com/numworks/epsilon/issues/1819) in [numworks/epsilon](https://github.com/numworks/epsilon)
-5. 🗣 Commented on [#525](https://github.com/Omega-Numworks/Omega/issues/525) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+1. 🗣 Commented on [#526](https://github.com/Omega-Numworks/Omega/issues/526) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+2. ❗️ Opened issue [#12388](https://github.com/ppy/osu/issues/12388) in [ppy/osu](https://github.com/ppy/osu)
+3. 🎉 Merged PR [#1](https://github.com/M4xi1m3/gedit-discord-rpc/pull/1) in [M4xi1m3/gedit-discord-rpc](https://github.com/M4xi1m3/gedit-discord-rpc)
+4. 🗣 Commented on [#1](https://github.com/M4xi1m3/gedit-discord-rpc/issues/1) in [M4xi1m3/gedit-discord-rpc](https://github.com/M4xi1m3/gedit-discord-rpc)
+5. 🗣 Commented on [#1819](https://github.com/numworks/epsilon/issues/1819) in [numworks/epsilon](https://github.com/numworks/epsilon)
 <!--END_SECTION:activity-->
 
 </details>
