@@ -26,10 +26,10 @@
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#538](https://github.com/Omega-Numworks/Omega/issues/538) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-2. 🗣 Commented on [#538](https://github.com/Omega-Numworks/Omega/issues/538) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-3. 🗣 Commented on [#6](https://github.com/Omega-Numworks/Omega-IDE/issues/6) in [Omega-Numworks/Omega-IDE](https://github.com/Omega-Numworks/Omega-IDE)
-4. 🗣 Commented on [#6](https://github.com/Omega-Numworks/Omega-IDE/issues/6) in [Omega-Numworks/Omega-IDE](https://github.com/Omega-Numworks/Omega-IDE)
-5. ❗️ Closed issue [#6](https://github.com/Omega-Numworks/Omega-IDE/issues/6) in [Omega-Numworks/Omega-IDE](https://github.com/Omega-Numworks/Omega-IDE)
+2. 🎉 Merged PR [#536](https://github.com/Omega-Numworks/Omega/pull/536) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+3. 🗣 Commented on [#536](https://github.com/Omega-Numworks/Omega/issues/536) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+4. 🗣 Commented on [#538](https://github.com/Omega-Numworks/Omega/issues/538) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+5. 🗣 Commented on [#538](https://github.com/Omega-Numworks/Omega/issues/538) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
 <!--END_SECTION:activity-->
 
 </details>
