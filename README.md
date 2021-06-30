@@ -25,11 +25,11 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#549](https://github.com/Omega-Numworks/Omega/issues/549) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-2. 🎉 Merged PR [#544](https://github.com/Omega-Numworks/Omega/pull/544) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-3. 🗣 Commented on [#545](https://github.com/Omega-Numworks/Omega/issues/545) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-4. ❌ Closed PR [#542](https://github.com/Omega-Numworks/Omega/pull/542) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-5. 🗣 Commented on [#542](https://github.com/Omega-Numworks/Omega/issues/542) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+1. 🗣 Commented on [#11](https://github.com/numworks/dieter/issues/11) in [numworks/dieter](https://github.com/numworks/dieter)
+2. 🗣 Commented on [#15](https://github.com/numworks/dieter/issues/15) in [numworks/dieter](https://github.com/numworks/dieter)
+3. 🗣 Commented on [#549](https://github.com/Omega-Numworks/Omega/issues/549) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+4. 🎉 Merged PR [#544](https://github.com/Omega-Numworks/Omega/pull/544) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+5. 🗣 Commented on [#545](https://github.com/Omega-Numworks/Omega/issues/545) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
 <!--END_SECTION:activity-->
 
 </details>
