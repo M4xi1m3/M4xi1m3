@@ -25,11 +25,11 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8639](https://github.com/SerenityOS/serenity/pull/8639) in [SerenityOS/serenity](https://github.com/SerenityOS/serenity)
-2. 💪 Opened PR [#8585](https://github.com/SerenityOS/serenity/pull/8585) in [SerenityOS/serenity](https://github.com/SerenityOS/serenity)
-3. 🗣 Commented on [#8581](https://github.com/SerenityOS/serenity/issues/8581) in [SerenityOS/serenity](https://github.com/SerenityOS/serenity)
-4. ❗️ Opened issue [#8581](https://github.com/SerenityOS/serenity/issues/8581) in [SerenityOS/serenity](https://github.com/SerenityOS/serenity)
-5. 🗣 Commented on [#435](https://github.com/Omega-Numworks/Omega/issues/435) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+1. 🗣 Commented on [#8585](https://github.com/SerenityOS/serenity/issues/8585) in [SerenityOS/serenity](https://github.com/SerenityOS/serenity)
+2. 💪 Opened PR [#8639](https://github.com/SerenityOS/serenity/pull/8639) in [SerenityOS/serenity](https://github.com/SerenityOS/serenity)
+3. 💪 Opened PR [#8585](https://github.com/SerenityOS/serenity/pull/8585) in [SerenityOS/serenity](https://github.com/SerenityOS/serenity)
+4. 🗣 Commented on [#8581](https://github.com/SerenityOS/serenity/issues/8581) in [SerenityOS/serenity](https://github.com/SerenityOS/serenity)
+5. ❗️ Opened issue [#8581](https://github.com/SerenityOS/serenity/issues/8581) in [SerenityOS/serenity](https://github.com/SerenityOS/serenity)
 <!--END_SECTION:activity-->
 
 </details>
