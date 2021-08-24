@@ -25,11 +25,11 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/Kayn017/palila-bot/pull/14) in [Kayn017/palila-bot](https://github.com/Kayn017/palila-bot)
-2. 💪 Opened PR [#13](https://github.com/Kayn017/palila-bot/pull/13) in [Kayn017/palila-bot](https://github.com/Kayn017/palila-bot)
-3. 💪 Opened PR [#11](https://github.com/Kayn017/palila-bot/pull/11) in [Kayn017/palila-bot](https://github.com/Kayn017/palila-bot)
-4. 🎉 Merged PR [#2](https://github.com/M4xi1m3/nw-3d/pull/2) in [M4xi1m3/nw-3d](https://github.com/M4xi1m3/nw-3d)
-5. 🗣 Commented on [#8585](https://github.com/SerenityOS/serenity/issues/8585) in [SerenityOS/serenity](https://github.com/SerenityOS/serenity)
+1. ❗️ Opened issue [#563](https://github.com/Omega-Numworks/Omega/issues/563) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+2. 💪 Opened PR [#14](https://github.com/Kayn017/palila-bot/pull/14) in [Kayn017/palila-bot](https://github.com/Kayn017/palila-bot)
+3. 💪 Opened PR [#13](https://github.com/Kayn017/palila-bot/pull/13) in [Kayn017/palila-bot](https://github.com/Kayn017/palila-bot)
+4. 💪 Opened PR [#11](https://github.com/Kayn017/palila-bot/pull/11) in [Kayn017/palila-bot](https://github.com/Kayn017/palila-bot)
+5. 🎉 Merged PR [#2](https://github.com/M4xi1m3/nw-3d/pull/2) in [M4xi1m3/nw-3d](https://github.com/M4xi1m3/nw-3d)
 <!--END_SECTION:activity-->
 
 </details>
