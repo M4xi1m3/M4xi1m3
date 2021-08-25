@@ -25,11 +25,11 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/Kayn017/palila-bot/pull/18) in [Kayn017/palila-bot](https://github.com/Kayn017/palila-bot)
-2. 💪 Opened PR [#17](https://github.com/Kayn017/palila-bot/pull/17) in [Kayn017/palila-bot](https://github.com/Kayn017/palila-bot)
-3. 💪 Opened PR [#15](https://github.com/Kayn017/palila-bot/pull/15) in [Kayn017/palila-bot](https://github.com/Kayn017/palila-bot)
-4. 🗣 Commented on [#1864](https://github.com/numworks/epsilon/issues/1864) in [numworks/epsilon](https://github.com/numworks/epsilon)
-5. ❗️ Opened issue [#563](https://github.com/Omega-Numworks/Omega/issues/563) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+1. ❗️ Opened issue [#19](https://github.com/Kayn017/palila-bot/issues/19) in [Kayn017/palila-bot](https://github.com/Kayn017/palila-bot)
+2. 💪 Opened PR [#18](https://github.com/Kayn017/palila-bot/pull/18) in [Kayn017/palila-bot](https://github.com/Kayn017/palila-bot)
+3. 💪 Opened PR [#17](https://github.com/Kayn017/palila-bot/pull/17) in [Kayn017/palila-bot](https://github.com/Kayn017/palila-bot)
+4. 💪 Opened PR [#15](https://github.com/Kayn017/palila-bot/pull/15) in [Kayn017/palila-bot](https://github.com/Kayn017/palila-bot)
+5. 🗣 Commented on [#1864](https://github.com/numworks/epsilon/issues/1864) in [numworks/epsilon](https://github.com/numworks/epsilon)
 <!--END_SECTION:activity-->
 
 </details>
