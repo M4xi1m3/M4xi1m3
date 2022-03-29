@@ -25,11 +25,11 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#19](https://github.com/Kayn017/palila-bot/issues/19) in [Kayn017/palila-bot](https://github.com/Kayn017/palila-bot)
-2. 🗣 Commented on [#19](https://github.com/Kayn017/palila-bot/issues/19) in [Kayn017/palila-bot](https://github.com/Kayn017/palila-bot)
-3. ❗️ Opened issue [#19](https://github.com/Kayn017/palila-bot/issues/19) in [Kayn017/palila-bot](https://github.com/Kayn017/palila-bot)
-4. 💪 Opened PR [#18](https://github.com/Kayn017/palila-bot/pull/18) in [Kayn017/palila-bot](https://github.com/Kayn017/palila-bot)
-5. 💪 Opened PR [#17](https://github.com/Kayn017/palila-bot/pull/17) in [Kayn017/palila-bot](https://github.com/Kayn017/palila-bot)
+1. ❗️ Opened issue [#18](https://github.com/Insoumis/laec-est-toi/issues/18) in [Insoumis/laec-est-toi](https://github.com/Insoumis/laec-est-toi)
+2. 🗣 Commented on [#173](https://github.com/UpsilonNumworks/Upsilon/issues/173) in [UpsilonNumworks/Upsilon](https://github.com/UpsilonNumworks/Upsilon)
+3. 💪 Opened PR [#6](https://github.com/TI-Planet/webdfu_numworks/pull/6) in [TI-Planet/webdfu_numworks](https://github.com/TI-Planet/webdfu_numworks)
+4. 🗣 Commented on [#5](https://github.com/TI-Planet/webdfu_numworks/issues/5) in [TI-Planet/webdfu_numworks](https://github.com/TI-Planet/webdfu_numworks)
+5. 💪 Opened PR [#5](https://github.com/TI-Planet/webdfu_numworks/pull/5) in [TI-Planet/webdfu_numworks](https://github.com/TI-Planet/webdfu_numworks)
 <!--END_SECTION:activity-->
 
 </details>
