@@ -25,11 +25,11 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/Lambda-Numworks/Lambda/issues/2) in [Lambda-Numworks/Lambda](https://github.com/Lambda-Numworks/Lambda)
-2. ❗️ Opened issue [#1](https://github.com/Lambda-Numworks/Lambda/issues/1) in [Lambda-Numworks/Lambda](https://github.com/Lambda-Numworks/Lambda)
-3. 💪 Opened PR [#5](https://github.com/oSumAtrIX/lazer-exporter/pull/5) in [oSumAtrIX/lazer-exporter](https://github.com/oSumAtrIX/lazer-exporter)
-4. ❗️ Opened issue [#18](https://github.com/Insoumis/laec-est-toi/issues/18) in [Insoumis/laec-est-toi](https://github.com/Insoumis/laec-est-toi)
-5. 🗣 Commented on [#173](https://github.com/UpsilonNumworks/Upsilon/issues/173) in [UpsilonNumworks/Upsilon](https://github.com/UpsilonNumworks/Upsilon)
+1. ❗️ Opened issue [#3](https://github.com/Lambda-Numworks/Lambda/issues/3) in [Lambda-Numworks/Lambda](https://github.com/Lambda-Numworks/Lambda)
+2. ❗️ Opened issue [#2](https://github.com/Lambda-Numworks/Lambda/issues/2) in [Lambda-Numworks/Lambda](https://github.com/Lambda-Numworks/Lambda)
+3. ❗️ Opened issue [#1](https://github.com/Lambda-Numworks/Lambda/issues/1) in [Lambda-Numworks/Lambda](https://github.com/Lambda-Numworks/Lambda)
+4. 💪 Opened PR [#5](https://github.com/oSumAtrIX/lazer-exporter/pull/5) in [oSumAtrIX/lazer-exporter](https://github.com/oSumAtrIX/lazer-exporter)
+5. ❗️ Opened issue [#18](https://github.com/Insoumis/laec-est-toi/issues/18) in [Insoumis/laec-est-toi](https://github.com/Insoumis/laec-est-toi)
 <!--END_SECTION:activity-->
 
 </details>
