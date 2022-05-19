@@ -25,11 +25,11 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/Omega-Numworks/Omega-Robot/pull/35) in [Omega-Numworks/Omega-Robot](https://github.com/Omega-Numworks/Omega-Robot)
-2. ❌ Reopened PR [#35](https://github.com/Omega-Numworks/Omega-Robot/pull/35) in [Omega-Numworks/Omega-Robot](https://github.com/Omega-Numworks/Omega-Robot)
-3. ❌ Closed PR [#35](https://github.com/Omega-Numworks/Omega-Robot/pull/35) in [Omega-Numworks/Omega-Robot](https://github.com/Omega-Numworks/Omega-Robot)
-4. 🎉 Merged PR [#34](https://github.com/Omega-Numworks/Omega-Robot/pull/34) in [Omega-Numworks/Omega-Robot](https://github.com/Omega-Numworks/Omega-Robot)
-5. 💪 Opened PR [#35](https://github.com/Omega-Numworks/Omega-Robot/pull/35) in [Omega-Numworks/Omega-Robot](https://github.com/Omega-Numworks/Omega-Robot)
+1. ❗️ Closed issue [#6](https://github.com/Lambda-Numworks/Lambda/issues/6) in [Lambda-Numworks/Lambda](https://github.com/Lambda-Numworks/Lambda)
+2. 🎉 Merged PR [#35](https://github.com/Omega-Numworks/Omega-Robot/pull/35) in [Omega-Numworks/Omega-Robot](https://github.com/Omega-Numworks/Omega-Robot)
+3. ❌ Reopened PR [#35](https://github.com/Omega-Numworks/Omega-Robot/pull/35) in [Omega-Numworks/Omega-Robot](https://github.com/Omega-Numworks/Omega-Robot)
+4. ❌ Closed PR [#35](https://github.com/Omega-Numworks/Omega-Robot/pull/35) in [Omega-Numworks/Omega-Robot](https://github.com/Omega-Numworks/Omega-Robot)
+5. 🎉 Merged PR [#34](https://github.com/Omega-Numworks/Omega-Robot/pull/34) in [Omega-Numworks/Omega-Robot](https://github.com/Omega-Numworks/Omega-Robot)
 <!--END_SECTION:activity-->
 
 </details>
