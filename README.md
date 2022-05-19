@@ -25,11 +25,11 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/Lambda-Numworks/Lambda/issues/4) in [Lambda-Numworks/Lambda](https://github.com/Lambda-Numworks/Lambda)
-2. ❗️ Closed issue [#3](https://github.com/Lambda-Numworks/Lambda/issues/3) in [Lambda-Numworks/Lambda](https://github.com/Lambda-Numworks/Lambda)
-3. 🗣 Commented on [#1953](https://github.com/numworks/epsilon/issues/1953) in [numworks/epsilon](https://github.com/numworks/epsilon)
-4. ❗️ Opened issue [#3](https://github.com/Lambda-Numworks/Lambda/issues/3) in [Lambda-Numworks/Lambda](https://github.com/Lambda-Numworks/Lambda)
-5. ❗️ Opened issue [#2](https://github.com/Lambda-Numworks/Lambda/issues/2) in [Lambda-Numworks/Lambda](https://github.com/Lambda-Numworks/Lambda)
+1. ❗️ Opened issue [#6](https://github.com/Lambda-Numworks/Lambda/issues/6) in [Lambda-Numworks/Lambda](https://github.com/Lambda-Numworks/Lambda)
+2. ❗️ Opened issue [#5](https://github.com/Lambda-Numworks/Lambda/issues/5) in [Lambda-Numworks/Lambda](https://github.com/Lambda-Numworks/Lambda)
+3. ❗️ Opened issue [#4](https://github.com/Lambda-Numworks/Lambda/issues/4) in [Lambda-Numworks/Lambda](https://github.com/Lambda-Numworks/Lambda)
+4. ❗️ Closed issue [#3](https://github.com/Lambda-Numworks/Lambda/issues/3) in [Lambda-Numworks/Lambda](https://github.com/Lambda-Numworks/Lambda)
+5. 🗣 Commented on [#1953](https://github.com/numworks/epsilon/issues/1953) in [numworks/epsilon](https://github.com/numworks/epsilon)
 <!--END_SECTION:activity-->
 
 </details>
