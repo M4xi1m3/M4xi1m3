@@ -36,8 +36,6 @@
 
 #### Contact me
 [![Blog](https://img.shields.io/badge/-Blog-000000?style=for-the-badge&logo=rss&logoColor=red)][website]
-[![twitter : @M4xi1m3](https://img.shields.io/badge/-%40M4xi1m3-000000?style=for-the-badge&logo=twitter&logoColor=cyan)][twitter]
 [![email : M4x1me@pm.me](https://img.shields.io/badge/-m4x1me%40pm%2Eme-000000?style=for-the-badge&logo=protonmail&logoColor=blueviolet)](mailto:M4x1me@pm.me)
 
 [website]: https://m4xi1m3.github.io/
-[twitter]: https://twitter.com/M4xi1m3
