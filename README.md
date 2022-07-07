@@ -25,11 +25,11 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/M4xi1m3/legibot/issues/1) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
-2. ❌ Closed PR [#577](https://github.com/Omega-Numworks/Omega/pull/577) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-3. 🗣 Commented on [#577](https://github.com/Omega-Numworks/Omega/issues/577) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-4. 🗣 Commented on [#1962](https://github.com/numworks/epsilon/issues/1962) in [numworks/epsilon](https://github.com/numworks/epsilon)
-5. ❗️ Closed issue [#2](https://github.com/Lambda-Numworks/Lambda/issues/2) in [Lambda-Numworks/Lambda](https://github.com/Lambda-Numworks/Lambda)
+1. ❗️ Opened issue [#2](https://github.com/M4xi1m3/legibot/issues/2) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
+2. ❗️ Opened issue [#1](https://github.com/M4xi1m3/legibot/issues/1) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
+3. ❌ Closed PR [#577](https://github.com/Omega-Numworks/Omega/pull/577) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+4. 🗣 Commented on [#577](https://github.com/Omega-Numworks/Omega/issues/577) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+5. 🗣 Commented on [#1962](https://github.com/numworks/epsilon/issues/1962) in [numworks/epsilon](https://github.com/numworks/epsilon)
 <!--END_SECTION:activity-->
 
 </details>
