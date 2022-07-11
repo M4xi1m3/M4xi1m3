@@ -25,11 +25,11 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#580](https://github.com/Omega-Numworks/Omega/pull/580) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-2. 🎉 Merged PR [#579](https://github.com/Omega-Numworks/Omega/pull/579) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-3. ❌ Closed PR [#573](https://github.com/Omega-Numworks/Omega/pull/573) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-4. 🗣 Commented on [#573](https://github.com/Omega-Numworks/Omega/issues/573) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-5. 💪 Opened PR [#3](https://github.com/M4xi1m3/legibot/pull/3) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
+1. ❗️ Closed issue [#4](https://github.com/M4xi1m3/legibot/issues/4) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
+2. 🎉 Merged PR [#5](https://github.com/M4xi1m3/legibot/pull/5) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
+3. 💪 Opened PR [#5](https://github.com/M4xi1m3/legibot/pull/5) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
+4. ❗️ Opened issue [#4](https://github.com/M4xi1m3/legibot/issues/4) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
+5. ❗️ Closed issue [#2](https://github.com/M4xi1m3/legibot/issues/2) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
 <!--END_SECTION:activity-->
 
 </details>
