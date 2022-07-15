@@ -25,11 +25,11 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/M4xi1m3/legibot/issues/9) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
-2. ❗️ Closed issue [#7](https://github.com/M4xi1m3/legibot/issues/7) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
-3. 💪 Opened PR [#1](https://github.com/glideapps/canvas-hypertxt/pull/1) in [glideapps/canvas-hypertxt](https://github.com/glideapps/canvas-hypertxt)
-4. ❗️ Closed issue [#6](https://github.com/M4xi1m3/legibot/issues/6) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
-5. 🎉 Merged PR [#8](https://github.com/M4xi1m3/legibot/pull/8) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
+1. 🎉 Merged PR [#10](https://github.com/M4xi1m3/legibot/pull/10) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
+2. ❗️ Opened issue [#9](https://github.com/M4xi1m3/legibot/issues/9) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
+3. ❗️ Closed issue [#7](https://github.com/M4xi1m3/legibot/issues/7) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
+4. 💪 Opened PR [#1](https://github.com/glideapps/canvas-hypertxt/pull/1) in [glideapps/canvas-hypertxt](https://github.com/glideapps/canvas-hypertxt)
+5. ❗️ Closed issue [#6](https://github.com/M4xi1m3/legibot/issues/6) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
 <!--END_SECTION:activity-->
 
 </details>
