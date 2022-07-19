@@ -25,11 +25,11 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/M4xi1m3/legibot/issues/13) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
-2. 🎉 Merged PR [#12](https://github.com/M4xi1m3/legibot/pull/12) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
-3. 💪 Opened PR [#12](https://github.com/M4xi1m3/legibot/pull/12) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
-4. 🎉 Merged PR [#10](https://github.com/M4xi1m3/legibot/pull/10) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
-5. ❗️ Opened issue [#9](https://github.com/M4xi1m3/legibot/issues/9) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
+1. ❗️ Closed issue [#11](https://github.com/M4xi1m3/legibot/issues/11) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
+2. ❗️ Closed issue [#9](https://github.com/M4xi1m3/legibot/issues/9) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
+3. 🎉 Merged PR [#14](https://github.com/M4xi1m3/legibot/pull/14) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
+4. 💪 Opened PR [#14](https://github.com/M4xi1m3/legibot/pull/14) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
+5. ❗️ Opened issue [#13](https://github.com/M4xi1m3/legibot/issues/13) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
 <!--END_SECTION:activity-->
 
 </details>
