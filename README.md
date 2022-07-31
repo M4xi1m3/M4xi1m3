@@ -25,11 +25,11 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#13](https://github.com/M4xi1m3/legibot/issues/13) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
-2. 🎉 Merged PR [#18](https://github.com/M4xi1m3/legibot/pull/18) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
-3. 💪 Opened PR [#18](https://github.com/M4xi1m3/legibot/pull/18) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
-4. ❗️ Closed issue [#15](https://github.com/M4xi1m3/legibot/issues/15) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
-5. 🎉 Merged PR [#17](https://github.com/M4xi1m3/legibot/pull/17) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
+1. ❗️ Opened issue [#1966](https://github.com/numworks/epsilon/issues/1966) in [numworks/epsilon](https://github.com/numworks/epsilon)
+2. ❗️ Closed issue [#13](https://github.com/M4xi1m3/legibot/issues/13) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
+3. 🎉 Merged PR [#18](https://github.com/M4xi1m3/legibot/pull/18) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
+4. 💪 Opened PR [#18](https://github.com/M4xi1m3/legibot/pull/18) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
+5. ❗️ Closed issue [#15](https://github.com/M4xi1m3/legibot/issues/15) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
 <!--END_SECTION:activity-->
 
 </details>
