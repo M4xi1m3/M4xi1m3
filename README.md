@@ -25,11 +25,11 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/Lambda-Numworks/Lambda/issues/7) in [Lambda-Numworks/Lambda](https://github.com/Lambda-Numworks/Lambda)
-2. ❗️ Opened issue [#8](https://github.com/Lambda-Numworks/Lambda/issues/8) in [Lambda-Numworks/Lambda](https://github.com/Lambda-Numworks/Lambda)
-3. ❗️ Opened issue [#7](https://github.com/Lambda-Numworks/Lambda/issues/7) in [Lambda-Numworks/Lambda](https://github.com/Lambda-Numworks/Lambda)
-4. ❗️ Opened issue [#1966](https://github.com/numworks/epsilon/issues/1966) in [numworks/epsilon](https://github.com/numworks/epsilon)
-5. ❗️ Closed issue [#13](https://github.com/M4xi1m3/legibot/issues/13) in [M4xi1m3/legibot](https://github.com/M4xi1m3/legibot)
+1. 🗣 Commented on [#1966](https://github.com/numworks/epsilon/issues/1966) in [numworks/epsilon](https://github.com/numworks/epsilon)
+2. ❗️ Closed issue [#7](https://github.com/Lambda-Numworks/Lambda/issues/7) in [Lambda-Numworks/Lambda](https://github.com/Lambda-Numworks/Lambda)
+3. ❗️ Opened issue [#8](https://github.com/Lambda-Numworks/Lambda/issues/8) in [Lambda-Numworks/Lambda](https://github.com/Lambda-Numworks/Lambda)
+4. ❗️ Opened issue [#7](https://github.com/Lambda-Numworks/Lambda/issues/7) in [Lambda-Numworks/Lambda](https://github.com/Lambda-Numworks/Lambda)
+5. ❗️ Opened issue [#1966](https://github.com/numworks/epsilon/issues/1966) in [numworks/epsilon](https://github.com/numworks/epsilon)
 <!--END_SECTION:activity-->
 
 </details>
