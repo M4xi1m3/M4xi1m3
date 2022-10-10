@@ -25,11 +25,11 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/Omega-Numworks/Omega-Modbot/issues/3) in [Omega-Numworks/Omega-Modbot](https://github.com/Omega-Numworks/Omega-Modbot)
-2. ❗️ Opened issue [#2](https://github.com/Omega-Numworks/Omega-Modbot/issues/2) in [Omega-Numworks/Omega-Modbot](https://github.com/Omega-Numworks/Omega-Modbot)
-3. 🗣 Commented on [#1966](https://github.com/numworks/epsilon/issues/1966) in [numworks/epsilon](https://github.com/numworks/epsilon)
-4. ❗️ Closed issue [#7](https://github.com/Lambda-Numworks/Lambda/issues/7) in [Lambda-Numworks/Lambda](https://github.com/Lambda-Numworks/Lambda)
-5. ❗️ Opened issue [#8](https://github.com/Lambda-Numworks/Lambda/issues/8) in [Lambda-Numworks/Lambda](https://github.com/Lambda-Numworks/Lambda)
+1. 🎉 Merged PR [#6](https://github.com/Omega-Numworks/Omega-Guide/pull/6) in [Omega-Numworks/Omega-Guide](https://github.com/Omega-Numworks/Omega-Guide)
+2. 🎉 Merged PR [#5](https://github.com/Omega-Numworks/Omega-Guide/pull/5) in [Omega-Numworks/Omega-Guide](https://github.com/Omega-Numworks/Omega-Guide)
+3. 🎉 Merged PR [#4](https://github.com/Omega-Numworks/Omega-Guide/pull/4) in [Omega-Numworks/Omega-Guide](https://github.com/Omega-Numworks/Omega-Guide)
+4. 🎉 Merged PR [#7](https://github.com/Omega-Numworks/Omega-Guide/pull/7) in [Omega-Numworks/Omega-Guide](https://github.com/Omega-Numworks/Omega-Guide)
+5. 🎉 Merged PR [#9](https://github.com/Omega-Numworks/Omega-Guide/pull/9) in [Omega-Numworks/Omega-Guide](https://github.com/Omega-Numworks/Omega-Guide)
 <!--END_SECTION:activity-->
 
 </details>
