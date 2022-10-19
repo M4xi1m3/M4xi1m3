@@ -14,11 +14,11 @@
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reinventing debugging on the Numworks](https://m4xi1m3.github.io//Numworks-picoprobe/)
 - [Screenhax: The obvious bug that led to the creation of Phi](https://m4xi1m3.github.io//screenhax/)
 - [How Numworks killed third-party development - a technical approach](https://m4xi1m3.github.io//Numworks-lock/)
 - [How Windows almost drove me crazy.](https://m4xi1m3.github.io//Windows-rant/)
 - [Micmost: how a .git folder can get your consumers’ data leaked.](https://m4xi1m3.github.io//Micmost-git-leak/)
-- [Numworks modding - Part 2 : N0100++](https://m4xi1m3.github.io//Numworks-mod-p2/)
 <!-- BLOG-POST-LIST:END -->
 
 [more blog posts...][website]
