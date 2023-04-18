@@ -25,11 +25,11 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/Omega-Numworks/Omega-Modbot/issues/6) in [Omega-Numworks/Omega-Modbot](https://github.com/Omega-Numworks/Omega-Modbot)
-2. 🎉 Merged PR [#7](https://github.com/Omega-Numworks/Omega-Modbot/pull/7) in [Omega-Numworks/Omega-Modbot](https://github.com/Omega-Numworks/Omega-Modbot)
-3. 💪 Opened PR [#919](https://github.com/LukeSmithxyz/based.cooking/pull/919) in [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking)
-4. 🎉 Merged PR [#598](https://github.com/Omega-Numworks/Omega/pull/598) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
-5. 🎉 Merged PR [#10](https://github.com/Omega-Numworks/Omega-Guide/pull/10) in [Omega-Numworks/Omega-Guide](https://github.com/Omega-Numworks/Omega-Guide)
+1. ❌ Closed PR [#600](https://github.com/Omega-Numworks/Omega/pull/600) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+2. ❗️ Closed issue [#6](https://github.com/Omega-Numworks/Omega-Modbot/issues/6) in [Omega-Numworks/Omega-Modbot](https://github.com/Omega-Numworks/Omega-Modbot)
+3. 🎉 Merged PR [#7](https://github.com/Omega-Numworks/Omega-Modbot/pull/7) in [Omega-Numworks/Omega-Modbot](https://github.com/Omega-Numworks/Omega-Modbot)
+4. 💪 Opened PR [#919](https://github.com/LukeSmithxyz/based.cooking/pull/919) in [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking)
+5. 🎉 Merged PR [#598](https://github.com/Omega-Numworks/Omega/pull/598) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
 <!--END_SECTION:activity-->
 
 </details>
