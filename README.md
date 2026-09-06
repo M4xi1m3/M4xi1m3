@@ -25,7 +25,7 @@
 
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#610](https://github.com/Omega-Numworks/Omega/pull/610) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+1. ❗ Opened issue [#13335](https://github.com/bigcode-project/opt-out-v2/issues/13335) in [bigcode-project/opt-out-v2](https://github.com/bigcode-project/opt-out-v2)
 2. 💪 Opened PR [#610](https://github.com/Omega-Numworks/Omega/pull/610) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
 3. 🎉 Merged PR [#8](https://github.com/Omega-Numworks/Omega-Modbot/pull/8) in [Omega-Numworks/Omega-Modbot](https://github.com/Omega-Numworks/Omega-Modbot)
 4. 💪 Opened PR [#919](https://github.com/LukeSmithxyz/based.cooking/pull/919) in [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking)
